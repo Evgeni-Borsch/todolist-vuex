@@ -45,7 +45,6 @@ export default {
 }
 .inputStyle { 
     box-shadow: 0 8px 15px rgba(0, 0, 0, .1);
-    display: block;
     width: 100%;
     height: calc(1.5em + 0.75rem + 2px);
     padding: 0.375rem 0.75rem;
@@ -64,16 +63,12 @@ export default {
   display: block;
   width: 100px;
   height: 40px;
-  line-height: 45px;
-  border-radius: 45px;
   margin: 0px 20px;
-  font-size: 11px;
   text-transform: uppercase;
   text-align: center;
   letter-spacing: 3px;
   font-weight: 600;
   color: #524f4e;
-  background: white;
   box-shadow: 0 8px 15px rgba(0, 0, 0, .1);
   transition: .2s;
 }
