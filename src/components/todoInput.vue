@@ -61,13 +61,9 @@ export default {
 }
 .floating-button {
   text-decoration: none;
-  display: block;
   width: 100px;
   height: 40px;
-  line-height: 45px;
-  border-radius: 45px;
   margin: 0px 20px;
-  font-size: 11px;
   text-transform: uppercase;
   text-align: center;
   letter-spacing: 3px;
